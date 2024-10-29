@@ -1,0 +1,25 @@
+body {
+  display: flex;
+  flex-direction: column;
+}
+
+#header {
+  display: flex;
+  justify-content: space-between;
+}
+
+ul {
+  display: flex;
+  padding: 0px;
+  margin: 0px;
+  list-style: none;
+}
+
+li {
+  margin-right: 15px;
+  margin-left: 15px;
+}
+
+#hero-image {
+  width: 500px;
+}
